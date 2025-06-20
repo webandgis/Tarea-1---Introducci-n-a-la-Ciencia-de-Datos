@@ -1,0 +1,7 @@
+jupyter
+pandas
+seaborn
+pillow
+networkx
+nltk
+scikit-learn
